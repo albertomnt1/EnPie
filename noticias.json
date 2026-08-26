@@ -1,10 +1,322 @@
 [
   {
-    "titulo": "Bienvenida: esta web se actualiza sola cada día",
-    "resumen": "Este es un ejemplo de tarjeta de noticia. En cuanto actives el robot diario (ver README), aquí aparecerán automáticamente titulares reales de política española, con enlace a la fuente original.",
-    "fuente": "EN PIE",
-    "enlace": "#",
+    "titulo": "El Gobierno de Ayuso trasladó a la inmobiliaria que buscaba un inmueble de \"entre 250 y 400 metros y gran terraza”",
+    "resumen": "La Comunidad de Madrid visitó también una vivienda más barata, de 4 millones, antes de decidirse por el piso de Chamberí, según revela El PaísEl consejero señalado por Ayuso en la compra del ático comparecerá en la Asamb",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/madrid/gobierno-ayuso-traslado-inmobiliaria-buscaba-inmueble-250-400-metros-gran-terraza_1_13467124.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Más allá del litio: los nuevos desarrollos en baterías para coches eléctricos",
+    "resumen": "El sodio, las baterías LFP y otras tecnologías señalan la transición hacia un mercado más diversificado y que persigue soluciones adaptadas a distintos usos, costes y necesidades de autonomía",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/motor/tecnologia/litio-nuevos-desarrollos-baterias-coches-electricos_1_13387772.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Robles indigna al resto del Gobierno al chocar con Marlaska y plantear que el CNI sí avisó de que venía un gran salto en Ceuta",
+    "resumen": "Varios ministros, cada vez más molestos con una responsable de Defensa que va por libre y choca con el mensaje de La Moncloa. El delegado del Gobierno también la desmiente",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/espana/2026-08-26/robles-indigna-al-resto-del-gobierno-al-chocar-con-marlaska-y-plantear-que-el-cni-si-aviso-de-que-venia-un-gran-salto-en-ceuta.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Las nuevas leyes de extranjería y asilo contemplan repartos de inmigrantes, internamientos forzosos y confinamientos",
+    "resumen": "Los anteproyectos aprobados por el Gobierno refuerzan las garantías de menores y otros migrantes vulnerables, pero aceleran los plazos de expulsión y restringen el derecho de asilo",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/espana/2026-08-26/del-triaje-al-confinamiento-las-ocho-claves-de-la-nueva-ley-de-asilo-y-reforma-de-extranjeria.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Crece la tensión en Ceuta entre protestas por la gestión de la crisis y la llegada del ministro Torres",
+    "resumen": "Se multiplican los incidentes en medio del creciente hartazgo de la ciudad y la visita del nuevo mando único",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/espana/2026-08-26/crece-la-tension-en-ceuta-entre-protestas-por-la-gestion-de-la-crisis-y-la-llegada-del-ministro-torres.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El decreto que regula los ‘lobbies’ contempla sanciones de hasta 40.000 euros por infracciones graves",
+    "resumen": "El Gobierno reforma la ley de altos cargos e impide que trabajen para grupos de interés durante los dos años posteriores a su cese",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/espana/2026-08-26/el-decreto-que-regula-los-lobbies-contempla-sanciones-de-hasta-40000-euros-por-infracciones-graves.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Junts endurece su discurso y reclama competencias en inmigración para Cataluña: “No podemos esperar ni un minuto más”",
+    "resumen": "Los de Puigdemont aceleran la medida ante el avance electoral de Aliança Catalana y cambian el preámbulo de la proposición de ley para atraer a Podemos, que dice ahora que ese no era el “único problema” del texto",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/espana/2026-08-26/junts-endurece-su-discurso-y-reclama-competencias-en-inmigracion-para-cataluna-no-podemos-esperar-ni-un-minuto-mas.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Detenido en Dubái Alejandro Hamlyn, el empresario prófugo de los audios de Leire Díez",
+    "resumen": "La Audiencia Nacional había ordenado su arresto tras no presentarse a un juicio por fraude en el que la Fiscalía pide 89 años de cárcel para él",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/espana/2026-08-26/detenido-en-dubai-alejandro-hamlyn-el-empresario-profugo-de-los-audios-de-leire-diez.html",
+    "fecha": "2026-08-26",
+    "nivel": "urgente"
+  },
+  {
+    "titulo": "El encargo del Gobierno de Ayuso a la inmobiliaria de lujo que vendió el ático: “Entre 250 y 400 metros y una gran terraza”",
+    "resumen": "La Comunidad de Madrid valoró comprar una vivienda de cuatro millones en el paseo del Pintor Rosales antes de decantarse por el apartamento de Chamberí",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/espana/madrid/2026-08-26/el-encargo-del-gobierno-de-ayuso-a-la-inmobiliaria-de-lujo-que-vendio-el-atico-entre-250-y-400-metros-y-una-gran-terraza.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El Congreso fuerza a Sánchez a adelantar al 3 de septiembre su comparecencia sobre Ceuta, seis días antes de su fecha propuesta",
+    "resumen": "El PP había exigido su comparecencia urgente ante un pleno extraordinario del Congreso.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/nacional/sanchez-solicita-comparecer-voluntariamente-congreso-para-informar-sobre-crisis-migratoria-ceuta_7029413_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Sánchez mantiene el silencio tras la crisis de Ceuta mientras estalla un conflicto entre Interior y Defensa por los avisos del CNI",
+    "resumen": "El Gobierno ha anunciado que el presidente del Gobierno comparecerá en el Congreso, pero no ha aclarado cuándo. La Diputación Permanente se reúne este miércoles para abordar, entre otras cuestiones, la petición que ha he",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/nacional/sanchez-mantiene-silencio-tras-crisis-ceuta-mientras-estalla-un-conflicto-entre-interior-defensa-por-los-avisos-cni_7029224_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Torres se desmarca de Robles y respalda a Marlaska: \"No hubo comunicación del CNI\"",
+    "resumen": "Torres enmarca las palabras de Margarita Robles dentro de \"una reflexión propia\" de la ministra.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/nacional/torres-se-desmarca-robles-respalda-marlaska-no-hubo-comunicacion-cni_7029505_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Sumar acusa al PSOE de \"síndrome de Estocolmo\" con el rey de Marruecos y cree que el presidente \"llega tarde\"",
+    "resumen": "Última hora sobre la crisis migratoria en Ceuta y la declaración de situación de interés para la seguridad nacional.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/nacional/crisis-migratoria-ceuta-directo-ultima-hora-inmigrantes-marruecos_7029380_6.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Junts vuelve a registrar la ley para delegar competencias en inmigración a Cataluña en plena crisis migratoria en Ceuta",
+    "resumen": "En el nuevo texto se ha modificado la exposición de motivos, ya que Podemos criticó en el primero que era racista. \"Ya no hay excusas\", ha asegurado Nogueras.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/cataluna/junts-vuelve-registrar-ley-para-delegar-competencias-inmigracion-catalunya-plena-crisis-migratoria-ceuta_7029418_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Los consejeros de Vox plantan a Infancia en la reunión que abordará el traslado de menores e impugnarán expedientes",
+    "resumen": "Castilla y León, Extremadura y Aragón rechazan recibir menores migrantes no acompañados de la ciudad autónoma y han anunciado en una carta que recurrirán judicialmente cualquier medida que no implique su devolución a Mar",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/nacional/los-consejeros-vox-plantan-infancia-reunion-que-abordara-traslado-menores-desde-ceuta-impugnaran-cada-expediente_7029534_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El Gobierno rebaja de 2.900 a unos 1.500 los menores migrantes filiados en Ceuta tras depurar los registros informáticos",
+    "resumen": "En todo caso, señalan que la cifra de 1.500 crecerá en los próximos días a medida que se vayan concluyendo los trámites en marcha con las nuevas identificaciones consolidadas.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/ceuta/gobierno-rebaja-2-900-1-500-cifra-menores-migrantes-filiados-ceuta-tras-depurar-los-registros-informaticos_7029526_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Medio centenar de inmigrantes llegan en otra lancha rápida a Cartagena y López Miras critica la \"dejación\" del Gobierno",
+    "resumen": "La llegada de este miércoles vuelve a situar las costas de Cartagena en el foco de la presión migratoria después de dos llegadas en los últimos siete días.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/murcia/medio-centenar-inmigrantes-llegan-otra-lancha-rapida-cartagena-miras-critica-dejacion-funciones-gobierno_7029447_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Detenido en Zaragoza por agredir sexualmente a su hija de 2 años y compartir las imágenes en internet",
+    "resumen": "El detenido ha ingresado en prisión, acusado de dos delitos de agresión sexual y corrupción de menores.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/aragon/zaragoza/detenido-por-agredir-sexualmente-su-hija-2-anos-compartir-las-imagenes-internet_7029452_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "urgente"
+  },
+  {
+    "titulo": "El alcalde de Tomelloso sufre pérdida auditiva tras explotarle muy cerca el cohete del chupinazo",
+    "resumen": "Javier Navarro ha sufrido un traumatismo acústico con afectación del oído interno, aunque confía en \"recuperarse al cien por cien\".",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/castilla-la-mancha/ciudadreal/alcalde-tomelloso-sufre-perdida-auditiva-tras-explotarle-cohete-chupinazo-menos-un-metro_7029522_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Terelu Campos se rompe al revelar los motivos de su enfado con Belén Esteban",
+    "resumen": "En el programa 'De lunes a viernes', la hija de María Teresa Campos se ha emocionado al recordar uno de los momentos más vulnerables con Esteban.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/television/terelu-campos-se-rompe-revelar-los-motivos-su-enfado-con-belen-esteban-es-ese-delito-tan-grave-que-he-cometido_7029467_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Garamendi se encamina a su tercer mandato en la recta final de una legislatura bronca",
+    "resumen": "Está previsto que el empresario vasco sea elegido por aclamación el 1 de octubre, como recogen los Estatutos de la patronal, al no haberse presentado ninguna candidatura alternativa.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/lainformacion/economia-y-finanzas/garamendi-se-encamina-su-tercer-mandato-recta-final-una-legislatura-bronca_7029300_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Señales de que un coche de segunda mano tiene problemas",
+    "resumen": "La subida del precio de los vehículos en los últimos años ha hecho que el mercado de segunda mano viva un gran renacer. Concretamente, en 2024 se vendieron en España 2.114.396 coches de segunda mano, un 8,6% más que en 2",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/motor/senales-que-indican-que-un-coche-segunda-mano-puede-esconder-problemas_7025859_1.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Mourinho vuelve al Bernabéu 13 años después: su nuevo Real Madrid se presenta ante la afición",
+    "resumen": "El conjunto blanco se enfrenta a la Real Sociedad en el partido correspondiente a la jornada 1 de LaLiga.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/deportes/futbol/mourinho-vuelve-bernabeu-13-anos-despues-su-nuevo-real-madrid-se-presenta-ante-aficion_7029374_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Xavi, seleccionador de Países Bajos tras ser la tercera opción: \"Al menos estoy en el podio\"",
+    "resumen": "El director de fútbol de élite de la KNVB, Nigel de Jong, explicó que sus principales opciones eran Pep Guardiola y Arne Slot.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/deportes/futbol/xavi-hernandez-seleccionador-paises-bajos-tras-ser-tercera-opcion-federacion-menos-estoy-podio_7029384_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El Real Madrid, nuevo patrocinador del GP de España de Fórmula 1",
+    "resumen": "La cercanía de la Ciudad Deportiva con Madring permitirá incorporar determinadas instalaciones del club blanco a la operativa del Gran Premio.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/deportes/deportes_motor/formula-1/real-madrid-nuevo-patrocinador-gp-espana-formula-1_7029524_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "¿Puedo teletrabajar si cuido a un familiar con discapacidad? Qué dice la ley y cómo se lleva a la práctica",
+    "resumen": "El abogado experto en discapacidad Pedro López explica en qué casos podemos solicitarlo y cómo tiene que actuar la empresa.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/capaces/puedo-teletrabajar-si-cuido-un-familiar-con-discapacidad-que-dice-ley-como-se-lleva-practica-siempre-es-mejor-negociar_7029227_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "WhatsApp refuerza la seguridad de las cuentas para frenar estafas y accesos no autorizados",
+    "resumen": "WhatsApp añade más llaves de acceso, mejora la verificación en dos pasos y protege a los usuarios ante llamadas de números desconocidos.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-refuerza-seguridad-cuentas-frenar-estafas-accesos-no-autorizados_7029387_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Últimos días: cambios en los horarios de verano en supermercados en Barcelona",
+    "resumen": "El final de agosto devuelve poco a poco las rutinas también a la hora de hacer la compra, aunque no todas las cadenas aplican un horario especial",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/cataluna/barcelona/ultimos-dias-cambios-los-horarios-verano-supermercados-barcelona_7028555_0.html",
+    "fecha": "2026-08-26",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Moncloa niega avisos previos del CNI en Ceuta a nadie del Gobierno y desmiente a Robles: \"No se habrá explicado bien\"",
+    "resumen": "La ministra de Defensa vuelve a desmarcarse de la línea del Ejecutivo, insiste en que los servicios de Inteligencia desplegados en la ciudad autónoma lanzaron una advertencia el día previo y pide perdón a los ceutíes: \"Q",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/politica/moncloa-niega-avisos-previos-cni-ceuta-nadie-gobierno-desmiente-robles-no-habra-explicado_1_13466775.html",
     "fecha": "2026-08-25",
-    "nivel": "info"
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El Supremo confirma multas de casi 200.000 euros por el descontrol de los créditos de Avalmadrid",
+    "resumen": "Durante el primer semestre de este año, el Alto Tribunal ha avalado más multas impuestas por el Banco de España a entidades y consejeros participantes en su consejo de administraciónAvalmadrid, el último lodazal del PP e",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/madrid/supremo-confirma-multas-200-000-euros-descontrol-creditos-avalmadrid_1_13441953.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "La lección del plantón de Canadá a Trump: buscar un acuerdo justo con EEUU está condenado al fracaso",
+    "resumen": "Washington antepone ahora sus propios intereses a cualquier atisbo de consenso económico. \"No se puede llegar a un buen acuerdo con una mala persona\", decía el presidente de Nueva EscociaEl primer ministro de Canadá se p",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/internacional/theguardian/leccion-planton-canada-trump-buscar-acuerdo-justo-eeuu-condenado-fracaso_129_13465639.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Verín, punta de lanza de la crisis del PP en Ourense: el antiguo feudo de los Baltar hierve a nueve meses de las municipales",
+    "resumen": "El presidente provincial del partido, hombre de Alfonso Rueda, admite \"resistencias\" a la renovación impulsada desde Santiago, que vuelve a agitar el fantasma de la escisión entre los herederos de los centristas que pact",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/galicia/verin-punta-lanza-crisis-pp-ourense-antiguo-feudo-baltar-hierve-nueve-meses-municipales_1_13465231.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "De un barrio humilde de Cáceres a la élite en Londres: cuando el talento no basta sin dinero",
+    "resumen": "Álvaro Payo logró plaza entre 300 aspirantes en la English National Ballet School, una de las escuelas más exigentes del mundo. La falta de ayuda de la Junta, el ayuntamiento y Cáceres 2031 evidencia el techo de cristal ",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/extremadura/cultura/barrio-humilde-caceres-elite-londres-talento-no-basta-dinero_1_13463343.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El Gobierno plantea exigir 'carné europeo' a los centros de datos y que nuevas renovables cubran el 80% de su consumo",
+    "resumen": "Un borrador de Real Decreto endurece los requisitos para que estas instalaciones sean sostenibles, eficientes y soberanas, y avanzar en su desarrollo ordenado y eficiente  El magnate anónimo de la eólica en Castilla y Le",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/economia/gobierno-plantea-exigir-carne-europeo-centros-datos-nuevas-renovables-cubran-80-consumo_1_13466753.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El bufete de un asesor del PP en el Senado representa a la empresa que ha derribado fachadas para hacer alojamientos turísticos en València",
+    "resumen": "El despacho de Víctor Soriano, asesor de la senadora popular Eva Ortiz, lleva la representación legal de Business Decission and Advice SL en el residencial de la calle Carlos Cortina; el Ayuntamiento paralizó inicialment",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/comunitat-valenciana/bufete-asesor-pp-representa-empresa-derribado-fachadas-alojamientos-turisticos-valencia_1_13465599.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Feijóo y Abascal, luna de miel anticipada en Ceuta",
+    "resumen": "El riesgo para el PP es que, al convertir también la inmigración en uno de sus principales campos de batalla, aumente la importancia de un asunto que favorece más al discurso de Vox que al suyo. Hasta el punto de que Fei",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/opinion/zona-critica/feijoo-abascal-luna-miel-anticipada-ceuta_129_13465806.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Lo de Ceuta no se podía saber",
+    "resumen": "Casi un mes después, el flanco más débil de la posición del Gobierno sigue siendo la ceguera de aquella semana, que les cogiese desprevenidos. Que no reaccionasen a tiempo, que no hicieran nada para reforzar la frontera,",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/opinion/zona-critica/ceuta-no-podia_129_13466687.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Una investigación saca a la luz los 73 lugares de la represión franquista en Balears: \"Éramos 'gentuza' sin valor\"",
+    "resumen": "Un nuevo estudio identifica una red de cárceles, campos de concentración y espacios habilitados mucho más extensa de lo que ha llegado a la memoria colectiva y recupera dibujos, cartas y otros rastros de los presosEl PP ",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/illes-balears/sociedad/investigacion-saca-luz-73-lugares-represion-franquista-balears-gentuza_1_13420669.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "‘Tadeo Jones’ y los peajes de la animación comercial en España: “Si fuera 100% español no habría tenido tanto éxito”",
+    "resumen": "La saga de Enrique Gato alcanza su cuarta entrega (‘Tadeo Jones y la lámpara maravillosa’) en un aparente momento de esplendor industrial que conviene estudiar en profundidadEstrenos de cine - Ridley Scott: “La crítica m",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/cultura/cine/tadeo-jones-peajes-animacion-comercial-espana-si-fuera-100-espanol-no-habria-tenido-exito_1_13465812.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Cardio, yoga o pesas: ¿cuál es más fácil de mantener todo el año sin tirar la toalla?",
+    "resumen": "El mayor desafío del ejercicio físico no es empezar, sino seguir, y hay distintos factores que nos empujan a ser constantes o abandonar, incluido el tipo de ejercicio¿Por qué el yoga es tan efectivo? La ciencia detrás de",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/consumoclaro/tu-mejor-yo/cardio-yoga-pesas-facil-mantener-ano-tirar-toalla_1_13453794.html",
+    "fecha": "2026-08-25",
+    "nivel": "seguimiento"
   }
 ]
