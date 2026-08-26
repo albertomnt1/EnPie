@@ -1,0 +1,50 @@
+name: Actualizar noticias diarias
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Buscar noticias nuevas
+        run: python fetch_noticias.py
+
+      - name: Guardar cambios en el repositorio
+        run: |
+          git config user.name "en-pie-bot"
+          git config user.email "actions@github.com"
+          git add noticias.json
+          git diff --quiet --cached || git commit -m "Actualización diaria de noticias"
+          git push
+
+      - name: Preparar página
+        uses: actions/configure-pages@v5
+
+      - name: Subir sitio como artefacto
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
