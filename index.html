@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>EN PIE — Seguimiento político de España</title>
+<meta name="description" content="Noticias diarias de política española, explicadas claro, con vías reales para exigir mejores representantes.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a href="#feed" class="skip-link">Ir al contenido</a>
+
+<header>
+  <div class="brand">
+    <h1>EN&nbsp;PIE</h1>
+    <span class="stamp">seguimiento&nbsp;diario</span>
+  </div>
+  <p class="tagline">Política española, sin adornos. Actualizado cada día.</p>
+</header>
+
+<div class="ticker-wrap" aria-label="Formas de actuar">
+  <div class="ticker">
+    <span>Escribe a tu diputado o diputada esta semana</span>
+    <span>Comprueba que tu inscripción en el censo está al día</span>
+    <span>Verifica cualquier noticia antes de compartirla</span>
+    <span>Una concentración pacífica notificada es un derecho, no un favor</span>
+    <span>Escribe a tu diputado o diputada esta semana</span>
+    <span>Comprueba que tu inscripción en el censo está al día</span>
+    <span>Verifica cualquier noticia antes de compartirla</span>
+    <span>Una concentración pacífica notificada es un derecho, no un favor</span>
+  </div>
+</div>
+
+<main>
+  <section class="feed" id="feed">
+    <h2>Última hora</h2>
+    <div class="cards" id="cards">
+      <p style="font-family:'IBM Plex Mono',monospace;font-size:.85rem;">Cargando noticias…</p>
+    </div>
+  </section>
+
+  <aside aria-label="Cómo movilizarte">
+    <h2>Cómo actuar hoy</h2>
+    <ol>
+      <li><strong>Escribe.</strong> El Congreso publica el correo de contacto de cada grupo parlamentario. Un mensaje breve y concreto pesa más que cien quejas en redes.</li>
+      <li><strong>Verifica.</strong> Antes de indignarte o compartir, comprueba la fuente. La desinformación desactiva la movilización real.</li>
+      <li><strong>Organízate.</strong> Súmate a una plataforma vecinal, sindical o ciudadana ya existente en tu zona: la presión sostenida cambia más que un pico de indignación.</li>
+    </ol>
+    <a class="cta" href="https://www.congreso.es/es/web/guest/composicion-del-congreso" target="_blank" rel="noopener">Contactar con el Congreso</a>
+    <p class="fine">EN PIE es un proyecto ciudadano independiente. No representa a ningún partido. Contrasta siempre la información antes de actuar sobre ella.</p>
+  </aside>
+</main>
+
+<footer>
+  <p>EN PIE recopila automáticamente titulares de medios españoles de referencia sobre política y enlaza siempre a la fuente original — no reproducimos artículos completos. El objetivo es facilitar que la ciudadanía esté informada y participe: escribir a representantes, verificar información y sumarse a la organización ciudadana existente.</p>
+</footer>
+
+<script>
+async function cargarNoticias(){
+  const cont = document.getElementById('cards');
+  try{
+    const res = await fetch('noticias.json', {cache:'no-store'});
+    const noticias = await res.json();
+    if(!Array.isArray(noticias) || noticias.length === 0){
+      cont.innerHTML = '<p>Aún no hay noticias publicadas. Vuelve mañana.</p>';
+      return;
+    }
+    noticias.sort((a,b) => (b.fecha||'').localeCompare(a.fecha||''));
+    cont.innerHTML = noticias.map(n => `
+      <article class="card ${n.nivel || 'contexto'}">
+        <div class="meta">
+          <span class="badge">${(n.nivel||'contexto').toUpperCase()}</span>
+          <span>${n.fecha || ''}</span>
+          <span>· ${n.fuente || 'Fuente'}</span>
+        </div>
+        <h3>${n.titulo}</h3>
+        <p>${n.resumen || ''}</p>
+        ${n.enlace && n.enlace !== '#' ? `<a class="fuente" href="${n.enlace}" target="_blank" rel="noopener">Leer en ${n.fuente} →</a>` : ''}
+      </article>
+    `).join('');
+  }catch(e){
+    cont.innerHTML = '<p>No se han podido cargar las noticias ahora mismo.</p>';
+  }
+}
+cargarNoticias();
+</script>
+</body>
+</html>

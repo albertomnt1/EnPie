@@ -1,0 +1,10 @@
+[
+  {
+    "titulo": "Bienvenida: esta web se actualiza sola cada día",
+    "resumen": "Este es un ejemplo de tarjeta de noticia. En cuanto actives el robot diario (ver README), aquí aparecerán automáticamente titulares reales de política española, con enlace a la fuente original.",
+    "fuente": "EN PIE",
+    "enlace": "#",
+    "fecha": "2026-08-25",
+    "nivel": "info"
+  }
+]
