@@ -1,5 +1,301 @@
 [
   {
+    "titulo": "El Gobierno acelera los trámites para sacar en dos semanas a todos los inmigrantes de la calle y poder devolver a la mayoría",
+    "resumen": "Los policías trabajarán también ‘online’ desde fuera de Ceuta para agilizar los trámites de rechazo de asilo y devolución",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/espana/2026-08-29/el-gobierno-acelera-los-tramites-para-sacar-en-dos-semanas-a-todos-los-inmigrantes-de-la-calle-y-poder-devolver-a-la-mayoria.html",
+    "fecha": "2026-08-29",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Cuando las ideas molestan",
+    "resumen": "Se diría que hoy solo importa la responsabilidad de las actuaciones políticas que se dilucida ante los tribunales",
+    "fuente": "El País (España)",
+    "enlace": "https://elpais.com/opinion/2026-08-29/cuando-las-ideas-molestan.html",
+    "fecha": "2026-08-29",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Por qué el Gobierno piensa que Marruecos no está detrás de la crisis de Ceuta",
+    "resumen": "El Ejecutivo vuelve a alabar la colaboración con el país vecino, pero los ministros de Sumar admiten dudas sobre su actuación en el cruce irregular de más 72.000 personasEl Gobierno y el PP coinciden en pedir “calma” en ",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/internacional/gobierno-piensa-marruecos-no-detras-crisis-ceuta_1_13473112.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Mónica García: \"Hasta que no estén todas las personas bajo techo, no se podrá recuperar la normalidad en Ceuta\"",
+    "resumen": "La ministra de Sanidad celebra el \"cambio de actitud\" del gobierno ceutí para facilitar espacios donde alojar a los migrantes y lamenta que el PP esté \"alterando la convivencia para intentar desestabilizar al Gobierno\": ",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/sociedad/monica-garcia-no-esten-personas-techo-no-podra-recuperar-normalidad-ceuta_128_13473565.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Ocho leyes clave aún pendientes de aprobar en el Congreso de cara al último curso de la legislatura",
+    "resumen": "La reforma de la ley mordaza, la ley de familias o la de secretos oficiales se encuentran varadas en la Cámara Baja. El Gobierno ha prometido dar un impulso a normas como la reforma del Código Penal para despenalizar las",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/politica/ocho-leyes-clave-pendientes-aprobar-congreso-cara-ultimo-curso-legislatura_1_13432621.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Del terrorismo de Estado a la Gürtel: las causas que han llevado al juzgado a los presidentes del Gobierno",
+    "resumen": "El resto de mandatarios de la democracia han declarado como testigos ante tribunales en casos como los GAL, Banesto, Gürtel, Kitchen o la causa contra Begoña GómezLa declaración de los directivos de Plus Ultra y el orige",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/politica/terrorismo-gurtel-causas-han-llevado-juzgado-presidentes-gobierno_1_13312796.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Islandia se asoma a Europa con un referéndum que reabre el viejo dilema sobre entrar en la UE",
+    "resumen": "Los islandeses deciden si reabrir las negociaciones con Bruselas en un debate marcado por la soberanía nacional, la pesca y la creciente incertidumbre en el ÁrticoEl contraste nórdico con la UE: por qué Islandia se acerc",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/internacional/islandia-asoma-europa-referendum-reabre-viejo-dilema-entrar-ue_1_13472062.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Marc Biarnés, humorista: “Ayuso es un personaje de telenovela. Me pongo la peluca y podría estar horas haciendo de ella, me posee”",
+    "resumen": "El autor de la cuenta @nosoloviernes, que ha convertido la indignación social en contenido viral, habla del “circo sin complejos” de la política española y confiesa una extraña conexión con la presidenta de la Comunidad ",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/era/marc-biarnes-humorista-ayuso-personaje-telenovela-pongo-peluca-horas-haciendo-posee_1_13473176.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Karina Milei, la mano que mece el diván del presidente",
+    "resumen": "Convirtió en conferenciante a un cantante de covers de una banda juvenil, lo llevó a la televisión; explotó su magnetismo para construir un personaje que subió a una tribuna y, después de diseñar dos campañas electorales",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/opinion/karina-milei-mano-mece-divan-presidente_129_13473413.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "De Ceuta",
+    "resumen": "El Gobierno y el PP coinciden en pedir “calma” en Ceuta mientras Vox azuza la violencia racista",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/opinion/ceuta_131_13473794.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Suances celebra su popular fiesta del 'Descenso de la Ría' sin esclarecer la causa de la muerte masiva de aves",
+    "resumen": "Mientras el Ayuntamiento defiende que el estuario está \"limpio\" tras las lluvias y el agua es \"apta\" para el baño, la Asociación Ría San Martín denuncia a la Comisión Europea la ausencia de figuras de protección ambienta",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/cantabria/suances-celebra-tradicional-descenso-ria-esclarecer-causa-muerte-masiva-aves_1_13472774.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Donostia cumple un mes sin cenas solidarias mientras KAS sigue denunciando acoso policial",
+    "resumen": "KAS asegura que los agentes identifican y fotografían sin consentimiento a voluntarios y jóvenes migrantes, controlan los carros de comida y prohíben documentar estas actuaciones policialesEl Gobierno vasco cree que hay ",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/euskadi/donostia-cumple-mes-cenas-solidarias-kas-sigue-denunciando-acoso-policial_1_13471511.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Varios nidos de águila imperial impiden un parque solar para una las centrales eléctricas más importantes del país",
+    "resumen": "El Ministerio para la Transición Ecológica ha tumbado un proyecto fotovoltaico de Iberdrola en varios términos municipales la Sagra toledana, que buscaba hibridar su cercana y emblemática instalación de Aceca, uno de los",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/castilla-la-mancha/social/nidos-aguila-imperial-impiden-parque-solar-centrales-electricas-importantes-pais_1_13470077.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Miguel José Garmendia Aldaz de Echavacoiz, el navarro que recelaba de la llegada de \"maketos\" y prefería colaborar con el \"más raro de ETA\" antes que con españoles",
+    "resumen": "Siempre ligado a Irujo en su carrera política, trabajó como director de Prisiones para el Gobierno republicano de Negrín y acabó sus días exiliado y arruinado en MéxicoPuedes leer en este enlace todos los perfiles del es",
+    "fuente": "elDiario.es",
+    "enlace": "https://www.eldiario.es/euskadi/gobierno-de-euzkadi-90-anos/miguel-jose-garmendia-aldaz-echavacoiz-navarro-recelaba-llegada-maketos-preferia-colaborar-raro-eta-espanoles_132_13415950.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Cientos de ceutíes salen a las calles en el tercer día de protestas contra la crisis migratoria",
+    "resumen": "La manifestación ha marchado por las diferentes barriadas de la ciudad autónoma para que los vecinos pudieran ir incorporándose.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/ceuta/cientos-ceuties-salen-las-calles-tercer-dia-protestas-contra-crisis-migratoria_7030504_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Haakon VIII asume el trono y mantiene el lema \"Todo por Noruega\" tras la muerte de Harald",
+    "resumen": "El monarca prestará juramento a la Constitución el próximo martes ante el Parlamento noruego.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/gente/haakon-viii-asume-trono-mantiene-lema-todo-por-noruega-tras-muerte-harald-v_7030514_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Harald V de Noruega, el príncipe tímido que supo afirmar su personalidad",
+    "resumen": "Su reinado, tras el fallecimiento del rey Olav en 1991, fue un largo ejercicio de continuidad, estabilidad y adaptación en una Noruega con una democracia plenamente consolidada.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/gente/harald-v-noruega-principe-timido-que-supo-afirmar-su-personalidad_7030144_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "La inflación se dispara al 4,3% con el final del verano y alcanza máximos en tres años por el alza de las gasolinas",
+    "resumen": "El indicador subyacente cae hasta el 2,9% mientras el Gobierno insiste en que el descuento fiscal al gasóleo se incrementará a 20 céntimos a partir del 1 de septiembre.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/lainformacion/economia-y-finanzas/inflacion-se-dispara-4-3-agosto-alcanza-maximos-tres-anos-por-subida-las-gasolinas_7030208_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Un gran incendio provoca una enorme columna de humo cerca del estadio de Wembley en Londres",
+    "resumen": "Unos 125 bomberos trabajan para controlar las llamas en una instalación de residuos y los servicios ferroviarios cercanos han sido suspendidos como medida de precaución.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/internacional/un-gran-incendio-provoca-una-enorme-columna-humo-londres_7030365_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "UPTA denuncia que la nueva jubilación flexible impide el acceso a los autónomos que se retiran",
+    "resumen": "La asociación carga contra Seguridad Social a quien acusa de convertir a los autónomos en \"trabajadores de segunda\". Reclaman una reforma que permita percibir al menos el 75% de la pensión desde la jubilación.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/lainformacion/economia-y-finanzas/upta-denuncia-que-nueva-jubilacion-flexible-impide-acceso-los-autonomos-que-se-retiran_7030312_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Uno de los mejores quesos del mundo cuesta menos de 6 euros y está a la venta en este supermercado español",
+    "resumen": "Fue distinguido en el año 2021 en los 'International World Cheese Awards', conocidos en el sector como los 'Óscar del queso'.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/gastronomia/productos/mejores-quesos-mundo-cuesta-menos-6-euros-venta-supermercado-espanol-rico-proteinas_7026370_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Adif culmina la fase clave de las obras para mejorar el tráfico de Cercanías en Atocha",
+    "resumen": "El objetivo de la actuación es implantar un nuevo esquema de vías que permita aumentar la capacidad y fiabilidad de la principal estación madrileña.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/madrid/adif-culmina-fase-clave-las-obras-para-mejorar-trafico-cercanias-atocha_7030434_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Se cumplen 30 años del divorcio de Lady Di y el príncipe Carlos: fotos de la pareja que no habías visto",
+    "resumen": "El 9 de diciembre de 1992, el primer ministro John Major anunció la separación de los príncipes de Gales. Sin embargo, el divorcio no se hizo oficial hasta el 28 de agosto de 1996. En este sentido, con motivo del 30 aniv",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/gente/30-anos-divorcio-lady-di-principe-carlos-9-fotos-pareja-que-quizas-no-has-visto_7027816_1.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Raquel Sastre reaparece desde el hospital y preocupa por su estado de salud: \"Esperaba estar haciéndome liftings\"",
+    "resumen": "La cómica ha compartido en sus redes sociales una impactante imagen desde el hospital.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/gente/raquel-sastre-reaparece-desde-hospital-preocupa-por-su-estado-salud-esperaba-estar-haciendome-liftings_7030505_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Julián Álvarez, tercer día consecutivo sin presentarse al entrenamiento del Atlético",
+    "resumen": "El delantero argentino alegó el pasado miércoles tener una indisposición y desde entonces no ha acudido a las sesiones rojiblancas.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/deportes/futbol/julian-alvarez-tercer-dia-consecutivo-sin-presentarse-entrenamiento-atletico-madrid_7030241_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Jennifer Connelly sigue martirizada por esta escena que rodó en su juventud: \"No me sentí nada cómoda\"",
+    "resumen": "La actriz ganadora del Oscar recordaba en una entrevista con Rolling Stone una película estrenó hace 35 años cuya promoción le hizo pasar un mal rato.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/cinemania/noticias/jennifer-connelly-escena-iconica-juventud-nada-comoda_7029239_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Trump continúa con su plan de rebautizar el mundo y se plantea cambiar el nombre del Atlántico o el Pacífico por \"océano América\"",
+    "resumen": "El presidente de EEUU plantea una nueva denominación después de rebautizar el golfo de México y firmar una orden para renombrar el lago Ontario.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/internacional/trump-continua-con-su-plan-rebautizar-mundo-se-plantea-cambiar-nombre-atlantico-pacifico-por-oceano-america_7030297_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "¿Qué efectos tienen los cambios de nombre de Trump de los golfos, océanos y lagos?",
+    "resumen": "El golfo de México, el lago Ontario y ahora, el océano Atlántico, todos han sufrido cambios de nombre para ajustarse a los decretos del presidente estadounidense.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/internacional/que-efectos-tienen-los-cambios-nombre-trump-los-golfos-oceanos-lagos_7030432_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Estos son los productos de los supermercados cuyo consumo se dispara hasta un 100% con la vuelta al cole",
+    "resumen": "Septiembre llega con fuerza en tiendas y supermercados; el regresoa la rutina prevé un repunte en el consumo de alimentos como carne, pescado, vegetales y frutas.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/lainformacion/economia-y-finanzas/los-productos-supermercado-cuyo-consumo-se-dispara-hasta-un-100-con-vuelta-cole_7030255_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El fútbol vuelve a tu TV: los partidos que podrás ver gratis esta temporada",
+    "resumen": "Descubre qué partidos de fútbol podrás ver gratis y en abierto esta temporada en televisión y plataformas como DAZN, RTVE y autonómicas.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/tecnologia/actualidad/futbol-vuelve-televisor-partidos-podras-ver-gratis-temporada_7030067_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Una enfermera ceutí responde a Mónica García tras negar el colapso de los sanitarios de Ceuta: \"Veo a mis compañeros llorando\"",
+    "resumen": "Marta ha criticado las acusaciones de la ministra de Sanidad, que ha tachado de xenófobos a los ceutíes que vinculan la llegada de los migrantes con la propagación de enfermedades.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/television/una-enfermera-ceuti-responde-monica-garcia-tras-negar-colapso-los-sanitarios-ceuta-veo-mis-companeros-llorando_7030360_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Warsh (Fed) avisa de que la inflación no está aún controlada y abre la puerta a las subidas de tipos",
+    "resumen": "El presidente de la Fed aprovecha su debut en Jackson Hole para poner el papel esencial de la economía y los mercados, abogando por un perfil más discreto del organismo.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/lainformacion/mercados-y-bolsa/warsh-avisa-inflacion-no-esta-aun-controlada_7030453_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Dos ciudades estrenan el modelo de 'Tienda 9' de Mercadona con nuevos dispositivos electrónicos un obrador central, autogestión...",
+    "resumen": "El Obrador Central une los procesos de corte, cocción y envasado de productos frescos en un mismo punto para darles más espacio.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/lainformacion/economia-y-finanzas/madrid-bilbao-estrenan-nuevo-modelo-tienda-9-mercadona-nuevos-dispositivos-electroncios-un-obrador-central-mayor-autogestion_7029962_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Netflix señala ahora a David Fincher por la cancelación de 'Mindhunter': \"Queríamos ver una tercera temporada\"",
+    "resumen": "La prestigiosa serie criminal acabó abruptamente en 2019 tras dos temporadas y a pesar del clamor de los fans no ha podido ser retomada.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/cinemania/series/mindhunter-tercera-temporada-netflix-fincher_7030263_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "El Ayuntamiento de Sevilla activa una convocatoria de 300.000 euros en ayudas para dar impulso al comercio local",
+    "resumen": "Las subvenciones, que pueden solicitarse hasta el 15 de septiembre, están dirigidas a asociaciones y federaciones de comerciantes para campañas y actividades de promoción.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/andalucia/sevilla/ayuntamiento-activa-una-convocatoria-300-000-euros-ayudas-para-impulsar-comercio-barrio_7030314_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "León XIV recibe en audiencia al presidente de Iberdrola",
+    "resumen": "La reunión se ha llevado a cabo debido a la celebración este año del 125 aniversario de Iberdrola y, en ella, le han comentado al pontífice el compromiso de la empresa con la sostenibilidad y el medio ambiente.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/lainformacion/empresas/leon-xiv-recibe-audiencia-presidente-iberdrola_7030479_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
+    "titulo": "Javier Bardem y Victoria Luengo ('El ser querido'), contra las críticas al cine español: \"Spider-Man' y 'La Odisea' son políticas\"",
+    "resumen": "Ambos protagonizan la nueva película de Rodrigo Sorogoyen ('As bestas', 'Antidisturbios'), un drama sobre el abandono de un padre a su hija que también aborda la situación del Sáhara.",
+    "fuente": "20minutos",
+    "enlace": "https://www.20minutos.es/cinemania/noticias/javier-bardem-victoria-luengo-critica-cine-espanol-spiderman-odisea-son-politicas_7029424_0.html",
+    "fecha": "2026-08-28",
+    "nivel": "seguimiento"
+  },
+  {
     "titulo": "El Gobierno y el PP coinciden en pedir “calma” en Ceuta mientras Vox azuza la violencia racista",
     "resumen": "El Ejecutivo y el principal partido de la oposición apelan al cese de la violencia tras los disturbios, aunque los populares achacan la desesperación de los ceutíes a la \"pasividad\" del Ejecutivo de Pedro Sánchez \nEstall",
     "fuente": "elDiario.es",
@@ -20,302 +316,6 @@
     "resumen": "El Ministerio de Interior ha pedido \"extender la duración de la operación Minerva\", que cubre los puertos de Algeciras, Tarifa y Ceuta durante la Operación Paso del Estrecho hasta el próximo 2 de septiembreEl Gobierno y ",
     "fuente": "elDiario.es",
     "enlace": "https://www.eldiario.es/politica/espana-solicita-comision-europea-apoyo-frontex-europol-triaje-migrantes-ceuta_1_13473628.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Albares, sobre la crisis de Ceuta: \"La falta de solidaridad de Italia con España va en contra de la UE\"",
-    "resumen": "El ministro de Exteriores achaca a un \"bulo\" el \"detonante inmediato\" del episodio migratorio masivo y señala a Elon Musk y la \"internacional reaccionaria\" por tratar de \"desestabilizar y fracturar Europa\" Estallido de v",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/politica/albares-senala-detonante-crisis-ceuta-bulo-redes-despues-aprovecho-internacional-reaccionaria_1_13472051.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "El Gobierno y Ceuta acuerdan nuevos espacios para alojar a los migrantes que quedan en las calles",
-    "resumen": "Todos los miembros del comité para la Situación de Interés para la Seguridad Nacional de Ceuta han coincidido en la reunión de este viernes en condenar la violencia después de varias jornadas de disturbiosEl Gobierno y e",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/politica/gobierno-acuerda-nuevos-emplazamientos-acoger-migrantes-quedan-calles-ceuta_1_13472382.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "La vendedora del ático para el Gobierno de Ayuso acepta que se difundan detalles de la compra",
-    "resumen": "Astrid Gil-Casares ha dado el visto bueno por escrito a que Planifica Madrid difunda información sobre la operación por la que el Gobierno de la Comunidad adquirió el ático por 6,3 millones de eurosCronología - De la “re",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/madrid/empresaria-vendio-atico-gobierno-ayuso-acepta-difundan-detalles-compra_1_13472322.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "El Foro de Abogacía y Democracia amplía su denuncia contra Figaredo (Vox) ante la escalada violenta en Ceuta",
-    "resumen": "La red de letrados considera que los altercados de los últimos días evidencian que el llamamiento del diputado a “cazar” inmigrantes no constituía un riesgo “hipotético o abstracto”Estallido de violencia racista en Ceuta",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/politica/foro-abogacia-democracia-amplia-denuncia-figaredo-vox-escalada-violenta-ceuta_1_13473380.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "La tragedia en Nepal y Tíbet deja 547 muertos mientras aumenta el riesgo de una segunda riada",
-    "resumen": "El Ministerio de Exteriores ha reducido a tres los españoles desaparecidos tras la catástrofe\nLas imágenes por satélite muestran el antes y el después de las riadas de la frontera de Nepal\n        Al menos 547 personas h",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/internacional/tragedia-nepal-tibet-deja-489-muertos-riesgo-segunda-riada_1_13471971.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Nepal localiza a uno de los tres españoles desaparecidos tras la fuerte riada",
-    "resumen": "El Ministerio de Asuntos Exteriores español, que informó ayer de cuatro españoles desaparecidos, ha rebajado este viernes la cifra a tres personas\n        La Junta de Turismo de Nepal (NTB) ha indicado en su último bolet",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/internacional/nepal-localiza-tres-espanoles-desaparecidos-fuerte-riada_1_13473333.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Vox descartó este verano aplicar un tratamiento antiincendios en la Devesa del Saler que ha arrasado el fuego",
-    "resumen": "El concejal responsable, José Gosálbez, ha desestimado este año adquirir el producto químico que el pasado verano presentó como una prueba piloto \"ante la llegada del verano y el riesgo potencial de incendios, dada la pr",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/comunitat-valenciana/valencia/vox-desistio-verano-aplicar-tratamiento-antiincendios-devesa-saler-arrasado-fuego_1_13472302.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "El PNV se presenta como \"antídoto\" frente a la \"incertidumbre\" con la mirada ya puesta en las citas electorales de 2027",
-    "resumen": "En el acto de inauguración del curso político, Esteban presume de la \"estabilidad\" que vive Euskadi y defiende que \"construir una nación es construir bienestar gracias al autogobierno\"Pradales reivindica el “uso responsa",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/euskadi/pnv-presenta-antidoto-frente-incertidumbre-mirada-puesta-citas-electorales-2027_1_13473540.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Vox retira tres preguntas críticas con los consejeros del PP horas después de registrarlas en las Cortes de Castilla y León",
-    "resumen": "El partido de Santiago Abascal considera que la formulación de preguntas escritas es un instrumento \"más acorde con la labor de un grupo en la oposición\"Las Cortes de Castilla y León proyectará la bandera de Ceuta en su ",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/castilla-y-leon/politica/vox-cortes-castilla-leon-retira-tres-preguntas-criticas-consejeros-pp-horas-despues-registrarlas_1_13472860.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "La actriz Glenn Close comparte un emotivo vídeo en redes sociales: \"Ya estoy en casa, me siento bendecida\"",
-    "resumen": "\"Estoy en casa para descansar, reponerme y recargar energías\", añadió la actriz tras un vídeo en el que se emocionó al recordar a su madre. La intérprete es una de las estrellas de la nueva película de Los Javis, que lle",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/rastreador/actriz-glenn-close-comparte-emotivo-video-redes-sociales-casa-siento-bendecida_132_13472528.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "La crisis del PP de Verín llega hasta el puesto 15 de la lista: siete renuncias se suman a la dimisión de los cuatro ediles",
-    "resumen": "La gestora local y la dirección del partido en Ourense insisten en negar la gravedad de la situación tras el abandono en bloque de todo el grupo municipalVerín se queda sin concejales del PP: el pleno de la localidad our",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/galicia/crisis-pp-verin-llega-puesto-15-lista-siete-renuncias-suman-dimision-cuatro-ediles_1_13473092.html",
-    "fecha": "2026-08-28",
-    "nivel": "urgente"
-  },
-  {
-    "titulo": "Cientos de personas se manifiestan en Bilbao para pedir que los presos de ETA puedan hacer \"el camino a casa\"",
-    "resumen": "En plena Aste Nagusia y convocadas por Sare, reclaman que \"se les aplique la legislación ordinaria\" y que esto suponga \"la resolución definitiva del conflicto\"La Audiencia Nacional revoca dos terceros grados a los miembr",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/euskadi/cientos-personas-manifiestan-bilbao-pedir-presos-eta-puedan-camino-casa_1_13473336.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Antifraude archiva la denuncia contra la Diputación de Valencia por la plaza de la pareja de Pérez Llorca pero censura la urgencia",
-    "resumen": "La resolución de la Agencia señala que el objeto de la actuación \"ha decaído\" porque la pareja del presidente, que cumplía los requisitos, renunció a presentarse al proceso de consolidación de la comisión de servicio tra",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/comunitat-valenciana/politica/antifraude-archiva-denuncia-diputacion-valencia-plaza-pareja-perez-llorca-censura-urgencia_1_13473404.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "El Gobierno de Ayuso apela a \"sacrificarnos todos un poquito\" para sacar \"rentabilidad\" de la Fórmula 1",
-    "resumen": "El consejero de Vivienda y Transportes, Jorge Rodrigo, recuerda a dos semanas del Gran Premio de España en Madrid que solo durará \"un fin de semana\", aunque la concesión se prolongará una década y la oposición advierte d",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/madrid/somos/gobierno-ayuso-apela-sacrificarnos-poquito-sacar-rentabilidad-formula-1_1_13472630.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Warsh mantiene su apuesta por la discreción de la Fed pero se muestra preocupado por la inflación en EEUU",
-    "resumen": "El presidente de la Reserva Federal (Fed) asegura que los datos de inflación del verano son mejores de lo esperado, pero no hay una tendencia clara y tiene \"trabajo por hacer\"Warsh exhibe en Jackson Hole la vuelta del te",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/economia/warsh-mantiene-apuesta-discrecion-fed-muestra-preocupado-inflacion-eeuu_1_13473205.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Los gigantes tecnológicos avisan que se avecina una oleada de ciberataques con IA y piden a los gobiernos que se protejan",
-    "resumen": "Más de un centenar de empresas, incluidas OpenAI, Anthropic, Google o Microsoft, firman un manifiesto en el que urgen a \"blindar hospitales y servicios esenciales\" con IA financiada por el sector públicoEl líder de Anthr",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/tecnologia/gigantes-tecnologicos-avisan-avecina-oleada-ciberataques-ia-piden-gobiernos-protejan_1_13472086.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Los fans del heavy metal aguantan mejor el dolor gracias a los festivales de música",
-    "resumen": "Un nuevo estudio, publicado en Scientific Reports revela que determinados géneros, como el heavy metal, podrían ayudar a los pacientes con dolor crónico a dar rienda suelta a sus emociones reprimidas y a gestionar el mal",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/cultura/musica/fans-heavy-metal-aguantan-mejor-dolor-gracias-festivales-musica_1_13472203.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Cómo preparar el calabacín marinado y cinco recetas sabrosísimas y ligeras para tomarlo",
-    "resumen": "Sácale el máximo partido al rey de la huerta con este paso a paso para marinarlo a la perfección y cinco propuestas llenas de sabor, textura y colorCon alcaparras, albahaca o frutos secos: guarniciones de calabacín para ",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/consumoclaro/preparar-calabacin-marinado-cinco-recetas-sabrosisimas-ligeras-tomarlo_1_13433778.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Horarios de la jornada 3 de LaLiga EA Sports: cuándo y dónde ver los partidos",
-    "resumen": "Tras dos jornadas de liga, solo Barcelona, Real Madrid, Sevilla y Betis han ganado sus dos partidosVuelve el fútbol a la TV: dónde ver LaLiga, la Champions y todos los torneos masculinos y femeninos del 'deporte rey'\n\n  ",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/spin/deportes/horarios-jornada-3-laliga-ea-sports-ver-partidos-pm_1_13472362.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Seis de cada 10 superventas usados superan los 15 años y se acercan a los 200.000 km",
-    "resumen": "Los coches de ocasión más comercializados presentan una edad media de 16,3 años, y solo el 36% de ellos ha tenido un único propietario\n        El último informe elaborado por Carfax, el mayor proveedor privado de histori",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/motor/sector_y_mercado/seis-10-superventas-usados-superan-15-anos-acercan-200-000-km_1_13472089.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Audi presume de haber desarrollado el superdeportivo Nuvolari en un tiempo récord como en China",
-    "resumen": "Los 405 días que ha necesitado la marca para tener listo un prototipo muestran el potencial para acercarse a los tiempos de desarrollo de modelos de los fabricantes chinos, tal como exige el CEO de VolkswagenEl nuevo Aud",
-    "fuente": "elDiario.es",
-    "enlace": "https://www.eldiario.es/motor/tecnologia/audi-presume-haber-desarrollado-superdeportivo-nuvolari-tiempo-record-china_1_13434635.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "España pide a la UE el apoyo de Frontex para “agilizar” la clasificación de migrantes en Ceuta",
-    "resumen": "El ministro del Interior traslada la petición en una carta a la directora general de Migración de la Comisión Europea",
-    "fuente": "El País (España)",
-    "enlace": "https://elpais.com/espana/2026-08-28/espana-pide-a-la-ue-el-apoyo-de-frontex-para-agilizar-la-clasificacion-de-migrantes-en-ceuta.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Albares califica de “indispensable” la cooperación de Marruecos y carga contra Italia por insolidaria",
-    "resumen": "“No ha habido, hay, ni habrá nunca ningún” diálogo sobre la soberanía de Ceuta y Melilla, enfatiza el ministro",
-    "fuente": "El País (España)",
-    "enlace": "https://elpais.com/espana/2026-08-28/albares-califica-de-indispensable-la-cooperacion-de-marruecos-y-carga-contra-italia-por-insolidaria.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Marlaska alerta sobre los altercados en Ceuta y acusa a PP y Vox de “incitar al odio”",
-    "resumen": "El ministro se queda solo en la defensa de la “colaboración” de Marruecos, puesta en duda por Sumar y sus aliados parlamentarios",
-    "fuente": "El País (España)",
-    "enlace": "https://elpais.com/espana/2026-08-28/marlaska-evita-la-autocritica-y-acusa-a-pp-y-vox-de-incitar-al-odio-en-ceuta.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Ceuta y el consentimiento racista del PP",
-    "resumen": "Desgastar al Gobierno es la obligación de un partido de oposición; aceptar el contagio xenófobo de la ultraderecha está muy lejos de sus obligaciones",
-    "fuente": "El País (España)",
-    "enlace": "https://elpais.com/opinion/2026-08-28/ceuta-y-el-consentimiento-racista-del-pp.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "El Gobierno pide al PP que le ayude a parar la violencia en Ceuta en medio de bloqueos del reparto de comida a los inmigrantes",
-    "resumen": "Torres y Vivas pactaron un llamamiento contra la violencia, pero un centenar de personas carga contra la Cruz Roja",
-    "fuente": "El País (España)",
-    "enlace": "https://elpais.com/espana/2026-08-28/el-gobierno-pide-al-pp-que-le-ayude-a-parar-la-violencia-en-ceuta-en-medio-de-bloqueos-del-reparto-de-comida-a-los-inmigrantes.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Borrell asegura que la política exterior de España “tiene un coste”",
-    "resumen": "“Mantener posiciones distintas al consenso marginaliza a España en la Unión”, advierte el exjefe de la diplomacia europea",
-    "fuente": "El País (España)",
-    "enlace": "https://elpais.com/espana/2026-08-28/borrell-asegura-que-la-politica-exterior-de-espana-tiene-un-coste.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "El PP hace un llamamiento firme a la calma y al cese de la violencia en Ceuta",
-    "resumen": "Los populares pidieron el jueves “no señalar a la gente” tras los incidentes violentos en Ceuta",
-    "fuente": "El País (España)",
-    "enlace": "https://elpais.com/espana/2026-08-28/el-pp-corrige-su-discurso-y-llama-a-la-calma-y-al-cese-de-la-violencia-en-ceuta.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "La Guardia Civil y la GNR portuguesa interceptan 10 toneladas de hachís a una red de narcotráfico en el Guadiana",
-    "resumen": "La operación se salda con 10 detenidos y la intervención de nueve coches y tres armas",
-    "fuente": "El País (España)",
-    "enlace": "https://elpais.com/espana/2026-08-28/la-guardia-civil-y-la-gnr-portuguesa-interceptan-10-toneladas-de-hachis-a-una-red-de-narcotrafico-en-el-guadiana.html",
-    "fecha": "2026-08-28",
-    "nivel": "urgente"
-  },
-  {
-    "titulo": "El Gobierno pacta con Ceuta crear un listado de nuevos espacios para la acogida de inmigrantes tras las protestas vecinales",
-    "resumen": "Los nuevos emplazamientos no se conocerán, en principio, hasta que el martes, cuando el Consejo de Ministros tiene previsto aprobar el listado en un nuevo real decreto.",
-    "fuente": "20minutos",
-    "enlace": "https://www.20minutos.es/nacional/gobierno-acuerda-con-ceuta-un-listado-nuevos-espacios-para-acoger-inmigrantes-tras-las-protestas-vecinales_7030359_0.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Feijóo y la dirección del PP se sumarán a las concentraciones \"en defensa de las fronteras\" del próximo 2 de septiembre",
-    "resumen": "Feijóo acudirá a la concentración de Madrid del 2 de septiembre, mientras la dirección del PP participará en las convocatorias de toda España.",
-    "fuente": "20minutos",
-    "enlace": "https://www.20minutos.es/ceuta/feijoo-direccion-pp-se-sumaran-las-concentraciones-defensa-las-fronteras-proximo-2-septiembre_7030249_0.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "¿Qué hacer con los 1.500 menores en Ceuta? Estas son las cuatro opciones que propone el Gobierno para trasladarlos a la península",
-    "resumen": "Según el Gobierno, la reubicación de los menores puede acometerse con la ley de extranjería, a través de acuerdos bilaterales entre autonomías, con la intermediación de entidades o mediante acogimiento familiar.",
-    "fuente": "20minutos",
-    "enlace": "https://www.20minutos.es/nacional/que-hacer-con-los-1-500-menores-ceuta-estas-son-las-cuatro-opciones-que-propone-gobierno-para-trasladarlos-peninsula_7030058_0.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "España pide apoyo a la Unión Europea para el triaje de los migrantes que quedan en Ceuta",
-    "resumen": "El ministro del Interior, Grande-Marlaska, ha enviado una carta a Bruselas para que distintas agencias europeas ayuden en la crisis migratoria.",
-    "fuente": "20minutos",
-    "enlace": "https://www.20minutos.es/nacional/espana-pide-apoyo-union-europea-triaje-migrantes-ceuta_7030491_0.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Albares defiende la soberanía española de Ceuta y Melilla: \"Ni ha habido ni habrá nunca ningún tipo de conversación con Marruecos\"",
-    "resumen": "El ministro de Exteriores ha asegurado que España ha rechazado \"por todos los cauces diplomáticos disponibles\" las declaraciones procedentes de Marruecos, que considera contrarias a la integridad territorial española.",
-    "fuente": "20minutos",
-    "enlace": "https://www.20minutos.es/nacional/albares-defiende-soberania-espanola-ceuta-melilla-ni-ha-habido-ni-habra-nunca-ningun-tipo-conversacion-con-marruecos_7030406_0.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "Marlaska rebaja a 5.000 los migrantes que siguen en Ceuta y anuncia 35 millones para reforzar permanentemente la frontera",
-    "resumen": "El ministro del Interior insiste en negar informes del CNI que anticiparan el asalto masivo: \"Que no digan que lo del 30 alguien lo veía, porque no es cierto\"",
-    "fuente": "20minutos",
-    "enlace": "https://www.20minutos.es/nacional/marlaska-rebaja-5-000-los-migrantes-que-siguen-ceuta-anuncia-35-millones-para-reforzar-permanentemente-frontera_7030326_0.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "El polvorín de Ceuta se inflama: los militares piden al Gobierno poder hacer uso de la fuerza y la Guardia Civil exige \"mano dura\"",
-    "resumen": "Las asociaciones militares piden que los soldados puedan usar la fuerza \"proporcionada\" para evitar agresiones mientras patrullan en Ceuta.",
-    "fuente": "20minutos",
-    "enlace": "https://www.20minutos.es/nacional/polvorin-ceuta-se-inflama-los-militares-piden-gobierno-poder-hacer-uso-fuerza-guardia-civil-exige-mano-dura_7029987_0.html",
-    "fecha": "2026-08-28",
-    "nivel": "seguimiento"
-  },
-  {
-    "titulo": "El Gobierno amplía a 44,51 millones de euros la atención humanitaria en Ceuta por la crisis",
-    "resumen": "El Ministerio de Inclusión, Seguridad Social y Migraciones trabaja para que los costes sean financiados por la Unión Europea.",
-    "fuente": "20minutos",
-    "enlace": "https://www.20minutos.es/nacional/directo-crisis-migratoria-ceuta-ultima-hora-comparecencias-marlaska-albares-elma-saiz_7029801_6.html",
     "fecha": "2026-08-28",
     "nivel": "seguimiento"
   }
